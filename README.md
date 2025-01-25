@@ -1,2 +1,2 @@
 # cyber-sentinel
-Navy Intelligence veteran transitioning to Cyber Security. Completed Google Professional Cyber Security Certificate, currently studying CS50 at Harvard and for CompTIA Security+. Showcasing coding skills and projects in Python, threat analysis, incident response, and security frameworks.
+Navy Intelligence veteran transitioning to Cyber Security. Completed Google Professional Cyber Security Certificate, currently studying Cyber Security at the University of Pittsburgh after spending some time in the CS50 at Harvard. Also studying for CompTIA a+ and Security+. I will be showcasing coding skills and projects in Python, threat analysis, incident response, and security frameworks.
